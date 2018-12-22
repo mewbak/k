@@ -16,6 +16,7 @@ import org.kframework.backend.java.kil.Term;
 import org.kframework.backend.java.kil.TermContext;
 import org.kframework.backend.java.util.HookProvider;
 import org.kframework.backend.java.util.Profiler2;
+import org.kframework.backend.java.util.RuleSourceUtil;
 import org.kframework.builtin.KLabels;
 import org.kframework.compile.*;
 import org.kframework.definition.Module;
